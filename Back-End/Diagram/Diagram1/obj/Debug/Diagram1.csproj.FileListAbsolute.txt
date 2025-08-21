@@ -19,3 +19,10 @@ C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Diagram\Diagram1\obj\Debug
 C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Diagram\Diagram1\obj\Debug\Diagram1.csproj.CoreCompileInputs.cache
 C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Diagram\Diagram1\obj\Debug\Diagram1.dll
 C:\Users\Camilo\Desktop\Trabajo-acoplamiento\Back-End\Diagram\Diagram1\obj\Debug\Diagram1.pdb
+C:\Users\Camilo\Desktop\reactmovil\Back-End\Diagram\Diagram1\bin\Debug\Diagram1.dll.config
+C:\Users\Camilo\Desktop\reactmovil\Back-End\Diagram\Diagram1\bin\Debug\Diagram1.dll
+C:\Users\Camilo\Desktop\reactmovil\Back-End\Diagram\Diagram1\bin\Debug\Diagram1.pdb
+C:\Users\Camilo\Desktop\reactmovil\Back-End\Diagram\Diagram1\obj\Debug\Diagram1.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\reactmovil\Back-End\Diagram\Diagram1\obj\Debug\Diagram1.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\reactmovil\Back-End\Diagram\Diagram1\obj\Debug\Diagram1.dll
+C:\Users\Camilo\Desktop\reactmovil\Back-End\Diagram\Diagram1\obj\Debug\Diagram1.pdb

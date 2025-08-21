@@ -3231,11 +3231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\reactmovil\\Back-End\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\Camilo\\Desktop\\reactmovil\\Back-End\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Camilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Business\\obj\\",
+      "outputPath": "C:\\Users\\Camilo\\Desktop\\reactmovil\\Back-End\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3257,11 +3257,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Data\\Data.csproj"
+            "C:\\Users\\Camilo\\Desktop\\reactmovil\\Back-End\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\Camilo\\Desktop\\reactmovil\\Back-End\\Data\\Data.csproj"
             },
-            "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Utilities\\Utilities.csproj": {
-              "projectPath": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Utilities\\Utilities.csproj"
+            "C:\\Users\\Camilo\\Desktop\\reactmovil\\Back-End\\Utilities\\Utilities.csproj": {
+              "projectPath": "C:\\Users\\Camilo\\Desktop\\reactmovil\\Back-End\\Utilities\\Utilities.csproj"
             }
           }
         }
@@ -3303,7 +3303,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

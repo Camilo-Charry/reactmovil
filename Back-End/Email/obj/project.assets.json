@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Email\\Email.csproj",
+      "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\reactmovil\\Back-End\\Email\\Email.csproj",
       "projectName": "Email",
-      "projectPath": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Email\\Email.csproj",
+      "projectPath": "C:\\Users\\Camilo\\Desktop\\reactmovil\\Back-End\\Email\\Email.csproj",
       "packagesPath": "C:\\Users\\Camilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Email\\obj\\",
+      "outputPath": "C:\\Users\\Camilo\\Desktop\\reactmovil\\Back-End\\Email\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -253,7 +253,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

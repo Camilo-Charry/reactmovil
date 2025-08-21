@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v1EKKzx1yLk=",
+  "dgSpecHash": "GdoOA2Nq7dY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Camilo\\Desktop\\Trabajo-acoplamiento\\Back-End\\Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\Camilo\\Desktop\\reactmovil\\Back-End\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Camilo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Camilo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
