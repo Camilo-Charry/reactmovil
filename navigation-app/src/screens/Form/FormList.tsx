@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
   ok: { backgroundColor: "#d0f0d0", color: "green" },
   buttonRow: { flexDirection: "row", justifyContent: "space-between" },
   updateButton: {
-    backgroundColor: "#2196f3",
+    backgroundColor: "#21f328",
     paddingVertical: 8,
     paddingHorizontal: 16,
     borderRadius: 6,

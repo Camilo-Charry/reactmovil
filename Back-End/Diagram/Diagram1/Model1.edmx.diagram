@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f1a2ca59ddd7444da7f560a1e4042887" Name="Diagram1" ZoomLevel="54" >
+        <EntityTypeShape EntityType="Model1.User" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model1.Rol" Width="1.625" PointX="0.5" PointY="3.25" />
+        <EntityTypeShape EntityType="Model1.person" Width="1.5" PointX="7.25" PointY="1.625" />
+        <EntityTypeShape EntityType="Model1.TypeInfraction" Width="1.5" PointX="9.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model1.PaymentAgreement" Width="1.5" PointX="9.625" PointY="1.625" />
+        <EntityTypeShape EntityType="Model1.UserNotification" Width="1.5" PointX="5.5" PointY="6.25" />
+        <EntityTypeShape EntityType="Model1.AccessLog" Width="1.5" PointX="14.625" PointY="0.875" />
+        <EntityTypeShape EntityType="Model1.Module" Width="1.5" PointX="3.375" PointY="10.375" />
+        <EntityTypeShape EntityType="Model1.Permission" Width="1.5" PointX="0.875" PointY="9.75" />
+        <EntityTypeShape EntityType="Model1.Form" Width="1.5" PointX="3.125" PointY="4.625" />
+        <EntityTypeShape EntityType="Model1.TypePayment" Width="1.5" PointX="11.625" PointY="0.5" />
+        <EntityTypeShape EntityType="Model1.ModuloForm" Width="1.5" PointX="3.375" PointY="7.5" />
+        <EntityTypeShape EntityType="Model1.RolUser" Width="1.5" PointX="2.875" PointY="2" />
+        <EntityTypeShape EntityType="Model1.RolFormPermission" Width="1.5" PointX="0.5" PointY="6.625" />
+        <AssociationConnector Association="Model1.FormRolFormPermission" />
+        <AssociationConnector Association="Model1.FormModuloForm" />
+        <AssociationConnector Association="Model1.RolRolFormPermission" />
+        <AssociationConnector Association="Model1.RolRolUser" />
+        <EntityTypeShape EntityType="Model1.FineCalculationDetail" Width="1.5" PointX="12.125" PointY="5.5" />
+        <EntityTypeShape EntityType="Model1.DocumentInfraction" Width="1.5" PointX="8.25" PointY="8.625" />
+        <EntityTypeShape EntityType="Model1.UserInfraction" Width="1.5" PointX="7.25" PointY="4.5" />
+        <EntityTypeShape EntityType="Model1.valueSmldv" Width="1.5" PointX="14.25" PointY="5.25" />
+        <AssociationConnector Association="Model1.PaymentAgreementTypePayment" />
+        <AssociationConnector Association="Model1.ModuleModuloForm" />
+        <AssociationConnector Association="Model1.PermissionRolFormPermission" />
+        <AssociationConnector Association="Model1.UserRolUser" />
+        <AssociationConnector Association="Model1.Userperson" ManuallyRouted="false" >
+        </AssociationConnector>
+        <AssociationConnector Association="Model1.UserUserInfraction" />
+        <AssociationConnector Association="Model1.TypeInfractionUserInfraction" />
+        <EntityTypeShape EntityType="Model1.InspectoraReport" Width="1.5" PointX="6.25" PointY="9" />
+        <AssociationConnector Association="Model1.HaciendaReportDocumentInfraction" />
+        <AssociationConnector Association="Model1.PaymentAgreementDocumentInfraction" />
+        <AssociationConnector Association="Model1.UserNotificationUserInfraction" />
+        <AssociationConnector Association="Model1.UserInfractionPaymentAgreement" />
+        <AssociationConnector Association="Model1.valueSmldvFineCalculationDetail" />
+        <AssociationConnector Association="Model1.TypeInfractionFineCalculationDetail" />
+      </Diagram>
+      <Diagram DiagramId="64ec5b7e20c34c4fb29228f212f71622" Name="Diagram2" ZoomLevel="55" >
+        <EntityTypeShape EntityType="Model1.StateInfration" Width="1.5" PointX="0.75" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
